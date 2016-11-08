@@ -75,6 +75,7 @@
 ```
 ***
 
+###  Metodo responsavel por liberar a activity da memória
 ```
      @Override
     protected void onDestroy() {
