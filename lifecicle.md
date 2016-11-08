@@ -56,8 +56,9 @@
 ```
 ***
 
-```
 ### Quando a Activity começa a interagir com o usuário
+```
+
  @Override
     protected void onResume() {
         super.onResume(); Log.d("meuLog", "Evento VOLTOU PARA O APP!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
